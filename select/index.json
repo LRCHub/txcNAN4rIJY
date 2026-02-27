@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Weak",
+  "base_artist": "Larissa Lambert",
+  "createdAt": "2026-02-27T15:13:21.662779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When Your Heart Is Weak",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/01_When_Your_Heart_Is_Weak_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Weak Spot",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/02_Weak_Spot_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Weak Ends",
+      "artist": "Millionyoung",
+      "has_synced": true,
+      "path": "select/03_Weak_Ends_Millionyoung.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Say I Ain't Pick Yo Weak Ass Up (feat. Ballout)",
+      "artist": "Chief Keef feat. Ballout",
+      "has_synced": true,
+      "path": "select/04_Say_I_Ain't_Pick_Yo_Weak_Ass_Up_(feat._Ballout)_Chief_Keef_feat._Ballout.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say I Ain't Pick Yo Weak Ass Up (feat. Ballout)",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/05_Say_I_Ain't_Pick_Yo_Weak_Ass_Up_(feat._Ballout)_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Weak",
+      "artist": "Juicy J feat. Wiz Khalifa & BIG30",
+      "has_synced": true,
+      "path": "select/06_Weak_Juicy_J_feat._Wiz_Khalifa_&_BIG30.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Weak (feat. BIG30)",
+      "artist": "Juicy J & Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/07_Weak_(feat._BIG30)_Juicy_J_&_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 When your heart is weak",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/08_Cock_Robin_\u0000_When_your_heart_is_weak_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Get Weak (7\" Mix)",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/09_I_Get_Weak_(7__Mix)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Get Weak (Romantic Mix)",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/10_I_Get_Weak_(Romantic_Mix)_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Weak In the Presence of Beauty",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/11_Weak_In_the_Presence_of_Beauty_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Weak Spot",
+      "artist": "LaToya Jackson",
+      "has_synced": false,
+      "path": "select/12_Weak_Spot_LaToya_Jackson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Weak in the Presence of Beauty",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/13_Weak_in_the_Presence_of_Beauty_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Weak in the Presence of Beauty (Extended Mix; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/14_Weak_in_the_Presence_of_Beauty_(Extended_Mix;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Weak in the Presence of Beauty (extended mix)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/15_Weak_in_the_Presence_of_Beauty_(extended_mix)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Weak Spot",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/16_Weak_Spot_FKA_twigs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weak",
+      "artist": "Larissa Lambert",
+      "has_synced": false,
+      "path": "select/pl_01_Weak_Larissa_Lambert.txt"
+    }
+  ]
+}
